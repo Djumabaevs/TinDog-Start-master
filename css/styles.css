@@ -16,7 +16,7 @@ h1 {
 h3 {
   font-family: "Montserrat-Bold";
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: 900;
 }
 p {
   color: #8f8f8f;
@@ -60,4 +60,16 @@ nav-item {
 .feature-box {
   text-align: center;
   padding: 5%;
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+/* Testimonials */
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
 }
