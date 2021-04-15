@@ -9,7 +9,7 @@ body {
 
 h1 {
   font-family: "Montserrat-Black";
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1.5;
 }
 
@@ -43,4 +43,8 @@ nav-item {
 .title-image {
   width: 60%;
   transform: rotate(25deg);
+}
+/* Section features */
+#features {
+  padding: 7% 15%;
 }
