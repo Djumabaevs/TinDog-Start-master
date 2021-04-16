@@ -59,6 +59,7 @@ nav-item {
   width: 60%;
   transform: rotate(25deg);
   position: absolute;
+  right:25%;
 }
 /* Section features */
 #features {
@@ -110,4 +111,11 @@ nav-item {
 .pricing-column {
   padding: 3% 2%;
   text-align: center;
+}
+
+@media (max-width: 1028px) {
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
 }
