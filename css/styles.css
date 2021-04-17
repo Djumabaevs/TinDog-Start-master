@@ -112,8 +112,17 @@ nav-item {
   padding: 3% 2%;
   text-align: center;
 }
+/* //CTA Section// */
+#cta {
+  background-color:  #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
+}
 
 @media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
   .title-image {
     position: static;
     transform: rotate(0);
